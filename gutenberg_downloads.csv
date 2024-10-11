@@ -1,0 +1,31 @@
+id,internal_id,languages,title,authors,copyright,download_count,date,file_url,file_name,file_size,format
+84,084,en,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",False,78467,2024-10-11,https://www.gutenberg.org/ebooks/84.html.images,pg84.html,466262,HTML
+84,084,en,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",False,78467,2024-10-11,https://www.gutenberg.org/ebooks/84.epub3.images,pg84.epub,294269,EPUB
+84,084,en,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",False,78467,2024-10-11,https://www.gutenberg.org/ebooks/84.kf8.images,pg84.mobi,505393,MOBI
+84,084,en,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",False,78467,2024-10-11,https://www.gutenberg.org/ebooks/84.rdf,pg84.rdf,20572,RDF
+7849,07849,en,The Trial,"Kafka, Franz",True,3560,2024-10-11,https://www.gutenberg.org/ebooks/7849.html.images,pg7849.html,485628,HTML
+7849,07849,en,The Trial,"Kafka, Franz",True,3560,2024-10-11,https://www.gutenberg.org/ebooks/7849.epub3.images,pg7849.epub,242272,EPUB
+7849,07849,en,The Trial,"Kafka, Franz",True,3560,2024-10-11,https://www.gutenberg.org/ebooks/7849.kf8.images,pg7849.mobi,389465,MOBI
+7849,07849,en,The Trial,"Kafka, Franz",True,3560,2024-10-11,https://www.gutenberg.org/ebooks/7849.rdf,pg7849.rdf,20137,RDF
+2650,22650,fr,Du côté de chez Swann,"Proust, Marcel",False,9025,2024-10-11,https://www.gutenberg.org/ebooks/2650.html.images,pg2650.html,1105413,HTML
+2650,22650,fr,Du côté de chez Swann,"Proust, Marcel",False,9025,2024-10-11,https://www.gutenberg.org/ebooks/2650.epub3.images,pg2650.epub,480568,EPUB
+2650,22650,fr,Du côté de chez Swann,"Proust, Marcel",False,9025,2024-10-11,https://www.gutenberg.org/ebooks/2650.kf8.images,pg2650.mobi,789915,MOBI
+2650,22650,fr,Du côté de chez Swann,"Proust, Marcel",False,9025,2024-10-11,https://www.gutenberg.org/files/2650/2650-0.txt,pg2650.txt,1084279,TXT
+2650,22650,fr,Du côté de chez Swann,"Proust, Marcel",False,9025,2024-10-11,https://www.gutenberg.org/ebooks/2650.rdf,pg2650.rdf,20512,RDF
+17489,217489,fr,Les misérables Tome I: Fantine,"Hugo, Victor",False,7523,2024-10-11,https://www.gutenberg.org/ebooks/17489.html.images,pg17489.html,747024,HTML
+17489,217489,fr,Les misérables Tome I: Fantine,"Hugo, Victor",False,7523,2024-10-11,https://www.gutenberg.org/ebooks/17489.epub3.images,pg17489.epub,355329,EPUB
+17489,217489,fr,Les misérables Tome I: Fantine,"Hugo, Victor",False,7523,2024-10-11,https://www.gutenberg.org/ebooks/17489.kf8.images,pg17489.mobi,714783,MOBI
+17489,217489,fr,Les misérables Tome I: Fantine,"Hugo, Victor",False,7523,2024-10-11,https://www.gutenberg.org/ebooks/17489.rdf,pg17489.rdf,21248,RDF
+14774,95114774,fi,Painuva päivä; Elämän koreus; Leirivalkeat; Ajatar; Syreenien kukkiessa,"Leino, Eino",False,166,2024-10-11,https://www.gutenberg.org/ebooks/14774.html.images,pg14774.html,353853,HTML
+14774,95114774,fi,Painuva päivä; Elämän koreus; Leirivalkeat; Ajatar; Syreenien kukkiessa,"Leino, Eino",False,166,2024-10-11,https://www.gutenberg.org/ebooks/14774.epub3.images,pg14774.epub,232976,EPUB
+14774,95114774,fi,Painuva päivä; Elämän koreus; Leirivalkeat; Ajatar; Syreenien kukkiessa,"Leino, Eino",False,166,2024-10-11,https://www.gutenberg.org/ebooks/14774.kf8.images,pg14774.mobi,566394,MOBI
+14774,95114774,fi,Painuva päivä; Elämän koreus; Leirivalkeat; Ajatar; Syreenien kukkiessa,"Leino, Eino",False,166,2024-10-11,https://www.gutenberg.org/ebooks/14774.rdf,pg14774.rdf,19267,RDF
+7000,9517000,fi,Kalevala,,False,535,2024-10-11,https://www.gutenberg.org/ebooks/7000.html.images,pg7000.html,764782,HTML
+7000,9517000,fi,Kalevala,,False,535,2024-10-11,https://www.gutenberg.org/ebooks/7000.epub3.images,pg7000.epub,275750,EPUB
+7000,9517000,fi,Kalevala,,False,535,2024-10-11,https://www.gutenberg.org/ebooks/7000.kf8.images,pg7000.mobi,580021,MOBI
+7000,9517000,fi,Kalevala,,False,535,2024-10-11,https://www.gutenberg.org/ebooks/7000.rdf,pg7000.rdf,19753,RDF
+31284,331284,de,Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt,"Salten, Felix",False,6894,2024-10-11,https://www.gutenberg.org/ebooks/31284.html.images,pg31284.html,482402,HTML
+31284,331284,de,Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt,"Salten, Felix",False,6894,2024-10-11,https://www.gutenberg.org/ebooks/31284.epub3.images,pg31284.epub,210625,EPUB
+31284,331284,de,Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt,"Salten, Felix",False,6894,2024-10-11,https://www.gutenberg.org/ebooks/31284.kf8.images,pg31284.mobi,340390,MOBI
+31284,331284,de,Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt,"Salten, Felix",False,6894,2024-10-11,https://www.gutenberg.org/ebooks/31284.rdf,pg31284.rdf,20365,RDF
+5740,35740,de,Tractatus Logico-Philosophicus,"Wittgenstein, Ludwig",False,5527,2024-10-11,https://www.gutenberg.org/ebooks/5740.rdf,pg5740.rdf,172948,RDF

@@ -1,0 +1,278 @@
+[
+  {
+    "id": 84,
+    "internal_id": "084",
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "languages": "en",
+    "copyright": false,
+    "download_count": 78467,
+    "date": "2024-10-11",
+    "authors": "Shelley, Mary Wollstonecraft",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/84.html.images",
+        "format": "HTML",
+        "file_name": "pg84.html",
+        "file_size": 466262
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/84.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg84.epub",
+        "file_size": 294269
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/84.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg84.mobi",
+        "file_size": 505393
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/84.rdf",
+        "format": "RDF",
+        "file_name": "pg84.rdf",
+        "file_size": 20572
+      }
+    ]
+  },
+  {
+    "id": 7849,
+    "internal_id": "07849",
+    "title": "The Trial",
+    "languages": "en",
+    "copyright": true,
+    "download_count": 3560,
+    "date": "2024-10-11",
+    "authors": "Kafka, Franz",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7849.html.images",
+        "format": "HTML",
+        "file_name": "pg7849.html",
+        "file_size": 485628
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7849.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg7849.epub",
+        "file_size": 242272
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7849.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg7849.mobi",
+        "file_size": 389465
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7849.rdf",
+        "format": "RDF",
+        "file_name": "pg7849.rdf",
+        "file_size": 20137
+      }
+    ]
+  },
+  {
+    "id": 2650,
+    "internal_id": "22650",
+    "title": "Du côté de chez Swann",
+    "languages": "fr",
+    "copyright": false,
+    "download_count": 9025,
+    "date": "2024-10-11",
+    "authors": "Proust, Marcel",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/2650.html.images",
+        "format": "HTML",
+        "file_name": "pg2650.html",
+        "file_size": 1105413
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/2650.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg2650.epub",
+        "file_size": 480568
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/2650.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg2650.mobi",
+        "file_size": 789915
+      },
+      {
+        "file_url": "https://www.gutenberg.org/files/2650/2650-0.txt",
+        "format": "TXT",
+        "file_name": "pg2650.txt",
+        "file_size": 1084279
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/2650.rdf",
+        "format": "RDF",
+        "file_name": "pg2650.rdf",
+        "file_size": 20512
+      }
+    ]
+  },
+  {
+    "id": 17489,
+    "internal_id": "217489",
+    "title": "Les misérables Tome I: Fantine",
+    "languages": "fr",
+    "copyright": false,
+    "download_count": 7523,
+    "date": "2024-10-11",
+    "authors": "Hugo, Victor",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/17489.html.images",
+        "format": "HTML",
+        "file_name": "pg17489.html",
+        "file_size": 747024
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/17489.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg17489.epub",
+        "file_size": 355329
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/17489.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg17489.mobi",
+        "file_size": 714783
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/17489.rdf",
+        "format": "RDF",
+        "file_name": "pg17489.rdf",
+        "file_size": 21248
+      }
+    ]
+  },
+  {
+    "id": 14774,
+    "internal_id": "95114774",
+    "title": "Painuva päivä; Elämän koreus; Leirivalkeat; Ajatar; Syreenien kukkiessa",
+    "languages": "fi",
+    "copyright": false,
+    "download_count": 166,
+    "date": "2024-10-11",
+    "authors": "Leino, Eino",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/14774.html.images",
+        "format": "HTML",
+        "file_name": "pg14774.html",
+        "file_size": 353853
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/14774.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg14774.epub",
+        "file_size": 232976
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/14774.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg14774.mobi",
+        "file_size": 566394
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/14774.rdf",
+        "format": "RDF",
+        "file_name": "pg14774.rdf",
+        "file_size": 19267
+      }
+    ]
+  },
+  {
+    "id": 7000,
+    "internal_id": "9517000",
+    "title": "Kalevala",
+    "languages": "fi",
+    "copyright": false,
+    "download_count": 535,
+    "date": "2024-10-11",
+    "authors": "",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7000.html.images",
+        "format": "HTML",
+        "file_name": "pg7000.html",
+        "file_size": 764782
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7000.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg7000.epub",
+        "file_size": 275750
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7000.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg7000.mobi",
+        "file_size": 580021
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/7000.rdf",
+        "format": "RDF",
+        "file_name": "pg7000.rdf",
+        "file_size": 19753
+      }
+    ]
+  },
+  {
+    "id": 31284,
+    "internal_id": "331284",
+    "title": "Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
+    "languages": "de",
+    "copyright": false,
+    "download_count": 6894,
+    "date": "2024-10-11",
+    "authors": "Salten, Felix",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/31284.html.images",
+        "format": "HTML",
+        "file_name": "pg31284.html",
+        "file_size": 482402
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/31284.epub3.images",
+        "format": "EPUB",
+        "file_name": "pg31284.epub",
+        "file_size": 210625
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/31284.kf8.images",
+        "format": "MOBI",
+        "file_name": "pg31284.mobi",
+        "file_size": 340390
+      },
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/31284.rdf",
+        "format": "RDF",
+        "file_name": "pg31284.rdf",
+        "file_size": 20365
+      }
+    ]
+  },
+  {
+    "id": 5740,
+    "internal_id": "35740",
+    "title": "Tractatus Logico-Philosophicus",
+    "languages": "de",
+    "copyright": false,
+    "download_count": 5527,
+    "date": "2024-10-11",
+    "authors": "Wittgenstein, Ludwig",
+    "formats": [
+      {
+        "file_url": "https://www.gutenberg.org/ebooks/5740.rdf",
+        "format": "RDF",
+        "file_name": "pg5740.rdf",
+        "file_size": 172948
+      }
+    ]
+  }
+]
