@@ -104,6 +104,7 @@ def get_book_data(book_id, extended=False, session=session):
 
 
 def extend_rows(book_id, row):
+    """Incorporate file metadata into a row describing a book"""
     formats = row.pop(FORMATS, [])
     for key in formats:
         data = get_file_meta(book_id, key, formats[key])
@@ -113,6 +114,7 @@ def extend_rows(book_id, row):
 
 
 def extend_dicts(book_id, row):
+    """Add files metadata to book"""
     formats = row.pop(FORMATS, [])
     results = list()
     for key in formats:
@@ -124,6 +126,8 @@ def extend_dicts(book_id, row):
 
 
 def write_csv(book_ids, extended=False):
+    """Write data as CSV
+    If extended, writes a row for each available file. Otherwise a row for a book"""
     if extended:
         headers = HEADERS_EXTENDED
     else:
@@ -143,6 +147,7 @@ def write_csv(book_ids, extended=False):
 
 
 def write_json(book_ids):
+    """Write data as json"""
     data = list()
     for book_id in book_ids:
         data.append(extend_dicts(book_id, get_book_data(book_id, extended=True)))
@@ -152,6 +157,8 @@ def write_json(book_ids):
 
 
 def download_file(fpath, url):
+    """Download a file if it is not yet there.
+    The only practical purpose being that it's the easiest way to grab its size"""
     response = session.get(url)
     with open(fpath, mode="wb") as handler:
         handler.write(response.content)
@@ -159,7 +166,7 @@ def download_file(fpath, url):
 
 
 def get_file_meta(book_id, content_type, file_url):
-    """Grab files metadata"""
+    """Grab files metadata to extend the info aboot books"""
     if content_type in ["image/jpeg", "application/octet-stream"]:
         return
     ext = CONTENT_TYPES.get(content_type)
@@ -184,7 +191,7 @@ if __name__ == '__main__':
     # get_top_languages(session=session)
     # get_tops_for_langs()
     book_ids = [84, 7849, 2650, 17489, 14774, 7000, 31284, 5740]
-    # write_csv(book_ids, extended=True)
-    write_json(book_ids)
+    write_csv(book_ids)
+    # write_json(book_ids)
     # print(BOOK_FOLDER)
     # print(get_file_meta(2650, "text/plain; charset=utf-8", "https://www.gutenberg.org/files/2650/2650-0.txt"))
